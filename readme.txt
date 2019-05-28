@@ -1,4 +1,5 @@
-COMP 307 Assignment 1 Part 2
+ALL CODE WRITTEN BY KAAN DEMIR. DATA PROVIDED BY UNIVERSITY
+- If anything is missing or doesnt work, flick me an email at demirkaan97@gmail.com
 Code can be executed in terminal (linux/KDE) by invoking
 $ python main_dt.py <training.dat> <test.dat>
 Batch for 10 trials
